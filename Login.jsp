@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>MEDICAL INVENTORY</title>
+		<title>PHARMACY BILLING AND INVENTORY</title>
 		<meta http-equiv="pragma" content="no-cache">
 		<meta http-equiv="cache-control" content="no-cache">
 		<meta http-equiv="expires" content="0">
@@ -87,7 +87,7 @@
 			</table>		
 		</form>
 	</td>
-	</tr>
+</tr>
 </table>
 </body>
 </html>
